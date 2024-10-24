@@ -41,7 +41,6 @@ public class AppBiblioteca {
         String paisNombre = sc.nextLine();
         Pais pais = new Pais(paisNombre);
         aut.setPais(pais);
-        sc.nextLine();
 
         libro.setAutor(aut);
         }
