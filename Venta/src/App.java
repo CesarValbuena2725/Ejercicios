@@ -19,6 +19,6 @@ public class App {
         f1.agregarProducto(pro2);
         f1.mostrar();
         }
-        }
+    }
     
 }
